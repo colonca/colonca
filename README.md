@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**colonca/colonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soy estudiante de Ingeniera de Software** me encanta el mundo de la tecnologia y las cosas que puedo hacer a traves de ella.
 
 Here are some ideas to get you started:
 
