@@ -1,4 +1,4 @@
-### Hi there 👋
+### Vive Aprendiendo, La vida nunca para de enseñar.👋
 
 **Soy estudiante de Ingeniera de Software** me encanta el mundo de la tecnologia y las cosas que puedo hacer a traves de ella.
 
